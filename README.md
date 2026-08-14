@@ -1,21 +1,21 @@
 # Hi there, I'm João Pedro 👋
 
-I'm an **Information Systems student** and **IT Analyst** from Brazil, passionate about technology, automation, data, and building solutions for real-world problems.
+I'm an **Information Systems student** and **IT Manager** from Brazil, passionate about technology, automation, data, and building solutions for real-world business challenges.
 
-Currently, I work with IT infrastructure, business systems, databases, integrations, and process automation. A big part of my day involves turning repetitive tasks and business needs into smarter and more efficient solutions.
+Currently, I manage IT operations while working across infrastructure, databases, business systems, integrations, automation, and data analysis.
 
 ## 👨‍💻 About me
 
+* 💼 Working as an **IT Manager**
 * 🎓 Studying **Information Systems**
-* 💼 Working as an **IT Analyst**
-* 🗄️ Working frequently with **PostgreSQL, SQL and business databases**
+* 🗄️ Experienced with **PostgreSQL, SQL and business databases**
 * 📊 Building reports and dashboards with **Power BI**
-* 🐍 Developing automations and tools with **Python**
-* 🔗 Working with **APIs, integrations and business systems**
-* ⚙️ Automating workflows with tools such as **GitHub Actions**
-* 🖥️ Interested in **backend development, infrastructure and system automation**
+* 🔗 Working with **APIs, integrations and ERP systems**
+* 🐍 Developing automations and internal tools with **Python**
+* ⚙️ Improving processes through automation and system integration
+* 🖥️ Managing IT infrastructure, systems and technical operations
 * 🤖 Exploring **Artificial Intelligence and Machine Learning**
-* 🚀 Always looking for ways to automate boring things and build useful software
+* 🚀 Always looking for better ways to connect technology and business
 
 ## 🛠️ Technologies & Tools
 
@@ -26,19 +26,20 @@ Currently, I work with IT infrastructure, business systems, databases, integrati
 
 I'm continuously improving my skills in:
 
-* Software development
-* Backend systems
-* APIs and integrations
-* Data analysis
-* Machine Learning
+* Software Engineering
+* Backend Development
+* APIs and Integrations
+* Data Analysis
+* Artificial Intelligence
 * Automation
-* Cloud and DevOps
+* Cloud & DevOps
+* IT Management
 
 ## ⚡ What I enjoy building
 
-I especially enjoy projects involving **automation, APIs, data, dashboards, integrations, and tools that solve actual problems**.
+I enjoy working on projects involving **automation, APIs, data, dashboards, integrations, internal systems, and tools that solve real business problems**.
 
-Some of my repositories here are experiments, university projects, automations, and solutions created from challenges I've encountered in the real world.
+Many of my repositories here come from real challenges, university projects, experiments, and ideas that I wanted to turn into working solutions.
 
 ---
 
